@@ -1603,7 +1603,7 @@ I'd like to be again on a limited basis.
 
 373
 00:26:25,792 --> 00:26:27,918
-Or maybe you'd like to 
+Or maybe you'd like to
 sink your toy into somebody's skull.
 
 374
@@ -2181,7 +2181,7 @@ I've got to pay tax on the car.
 
 507
 00:35:08,898 --> 00:35:12,776
-Repair, maintenance, goddamn kids pestering 
+Repair, maintenance, goddamn kids pestering
 me to take 'em for a ride all the time...
 
 508
@@ -3057,7 +3057,7 @@ GUARD: OK, look alive! Open all tiers.
 707
 00:48:24,902 --> 00:48:27,153
 Heads up. They're tossing the cells.
-
+书签
 708
 00:48:29,281 --> 00:48:31,157
 119.
@@ -8032,4 +8032,3 @@ as it has been in my dreams.
 1880
 02:17:42,879 --> 02:17:44,755
 I hope.
-
