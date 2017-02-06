@@ -658,7 +658,7 @@ Put me down for a quarter deck.
 00:11:54,755 --> 00:11:58,842
 Fresh fish today!
 We're reeling them in!
-
+书签
 153
 00:11:58,926 --> 00:12:03,179
 RED: I must admit, I didn't think much of Andy,
@@ -3057,7 +3057,7 @@ GUARD: OK, look alive! Open all tiers.
 707
 00:48:24,902 --> 00:48:27,153
 Heads up. They're tossing the cells.
-书签
+
 708
 00:48:29,281 --> 00:48:31,157
 119.
