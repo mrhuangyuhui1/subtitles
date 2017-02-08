@@ -658,7 +658,7 @@ Put me down for a quarter deck.
 00:11:54,755 --> 00:11:58,842
 Fresh fish today!
 We're reeling them in!
-书签
+
 153
 00:11:58,926 --> 00:12:03,179
 RED: I must admit, I didn't think much of Andy,
@@ -1212,7 +1212,7 @@ Andy Dufresne cost me two packs of cigarettes.
 282
 00:19:52,191 --> 00:19:55,067
 He never-- made-- a sound.
-
+书签
 283
 00:19:57,946 --> 00:20:00,031
 (Gate buzzer)
