@@ -1212,7 +1212,7 @@ Andy Dufresne cost me two packs of cigarettes.
 282
 00:19:52,191 --> 00:19:55,067
 He never-- made-- a sound.
-书签
+
 283
 00:19:57,946 --> 00:20:00,031
 (Gate buzzer)
@@ -1808,7 +1808,7 @@ Yeah. I think it would be fair to say...
 420
 00:28:57,527 --> 00:28:59,611
 I liked Andy from the start.
-
+// bookmark
 421
 00:29:01,364 --> 00:29:04,575
 Let's-- go!
