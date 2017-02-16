@@ -1808,7 +1808,7 @@ Yeah. I think it would be fair to say...
 420
 00:28:57,527 --> 00:28:59,611
 I liked Andy from the start.
-// bookmark
+
 421
 00:29:01,364 --> 00:29:04,575
 Let's-- go!
@@ -2478,7 +2478,7 @@ Me, I think he did it just to feel normal again.
 572
 00:38:47,575 --> 00:38:49,659
 If only for a short while.
-
+// bookmark
 573
 00:38:52,538 --> 00:38:54,873
 RED: King me.
