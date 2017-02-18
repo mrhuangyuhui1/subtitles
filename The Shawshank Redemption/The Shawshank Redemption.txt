@@ -2478,7 +2478,7 @@ Me, I think he did it just to feel normal again.
 572
 00:38:47,575 --> 00:38:49,659
 If only for a short while.
-// bookmark
+
 573
 00:38:52,538 --> 00:38:54,873
 RED: King me.
@@ -3219,7 +3219,7 @@ Perhaps we can find something more...
 746
 00:51:55,445 --> 00:51:57,530
 befitting a man of your education.
-
+// bookmark 2.18
 747
 00:52:01,868 --> 00:52:03,744
 (Bird screeches)
